@@ -1,2 +1,5 @@
 *.ino linguist-language=C++
+
+*.h linguist-language=C++
+
 *.py linguist-detectable=false
