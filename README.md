@@ -58,4 +58,5 @@ This project demonstrates **sensor fusion**, **hardware control**, and **basic s
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/<MeldaYuceee>/Sentiel-Guard.git
+git clone https://github.com/MeldaYuceee/Sentinel-Guard.git
+
